@@ -20,11 +20,6 @@ public class Desafio05{
 
 
         }
-		
-		// Colocar a saída que deverá ser exibidas 'n' vezes
-        for(int i=0; i<n;i++){
-            
-        }
 
         
     }

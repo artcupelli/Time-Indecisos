@@ -6,7 +6,7 @@ inhaiiiii
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Desafio06{
+public class Desafio05{
 
     public static void main(String[] args){
 
@@ -19,13 +19,8 @@ public class Desafio06{
         for(int i=0;i<n;i++){
 
 
-        }
-		
-		// Colocar a saída que deverá ser exibidas 'n' vezes
-        for(int i=0; i<n;i++){
-            
-        }
 
+        }
         
     }
 
