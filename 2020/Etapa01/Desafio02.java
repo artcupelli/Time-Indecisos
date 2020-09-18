@@ -6,9 +6,7 @@ inhaiiiii
 import java.util.Scanner;
 import java.lang.Math;
 
-
-// Lembrar de mudar o nome da classe!!
-public class codigoBase{
+public class Desafio02{
 
     public static void main(String[] args){
 
