@@ -1,6 +1,5 @@
 /*
 	Código Base para execução dos Desafio do BXComp!!
-inhaiiiii
 	Autor: Time Os Indecisos <3
 */
 import java.util.Scanner;
